@@ -1,0 +1,3 @@
+java RNDCharCreator
+
+PAUSE
